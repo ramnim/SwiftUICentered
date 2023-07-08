@@ -1,7 +1,7 @@
 # SwiftUICentered
 
 ## Inatallation
-To install this package, import 'url here' in SPM
+To install this package, import 'https://github.com/ramnim/SwiftUICentered' in SPM
 
 ## Usage example
 ```swift
